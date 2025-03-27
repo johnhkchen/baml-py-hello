@@ -1,6 +1,8 @@
 # BAML
 baml_client/
 
+.sesskey
+.python-version
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
